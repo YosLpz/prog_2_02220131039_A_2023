@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Taller1_For{
+public class Ejercicio1_For{
     
     public static void main(String[] args) {
         
