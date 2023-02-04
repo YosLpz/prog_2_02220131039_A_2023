@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Taller1_DoWhile{
+public class Ejercicio1_DoWhile{
     public static void main(String[] args) {
         
         int num1 = 1;
