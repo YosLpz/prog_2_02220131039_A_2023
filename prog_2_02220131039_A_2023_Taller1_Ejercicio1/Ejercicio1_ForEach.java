@@ -1,7 +1,7 @@
 import java.util.Random;
 
 
-public class Taller1_ForEach {
+public class Ejercicio1_ForEach {
     
     public static void main(String[] args) {
         
