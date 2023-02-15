@@ -23,7 +23,7 @@ public class Ejercicio2_For{
     int relleno = 1 ;
 
 
-    cantidad = (int)(r.nextDouble() * 10 + 1);
+    cantidad = (int)(r.nextDouble() * 39);
 
     System.out.println("Digite [" + (cantidad) + "] numeros para determinar la media, moda y promedio");
 
