@@ -9,13 +9,13 @@ public class Ejercicio1_ForEach {
 
         Random r = new Random();
     
-        num1 = (int)(r.nextDouble() * 10);
+        num1 = (int)(r.nextDouble() * 2023);
     
         System.out.println("El multiplicando es " + num1);
 
         int num2 = 1;
         
-        num2 = (int)(r.nextDouble() * 10);
+        num2 = (int)(r.nextDouble() * 2023);
 
         System.out.println("El multiplicador es " + num2);
 
